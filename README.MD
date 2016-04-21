@@ -1,10 +1,14 @@
 ------------------------------------------------------------------------------------------
 
-	       PROJECT FINAL STUDY JAM  -- BASIC ELECTRIC CALCULATOR
+	 	     		 PROJECT FINAL STUDY JAM  -- BASIC ELECTRIC CALCULATOR
 ------------------------------------------------------------------------------------------
 	DESCRIPTION :
 
-		This is a basic application oriented to students of electrical and electronics, has 5 ways to calculate equivalent circuits, are 5 electric tools useful: a calculator equivalent circuit of resistors in series, in parallel, the equivalent circuit Millman, conversion of delta resistors a star and vice versa. It also has a calculator of the basic parameters present in any electronic circuit: current, resistance and voltage by Ohm's Law.
+		This is a basic application oriented to students of electrical and electronics, has 5 ways to 
+		calculate equivalent circuits, are 5 electric tools useful: a calculator equivalent circuit of 
+		resistors in series, in parallel, the equivalent circuit Millman, conversion of delta resistors 
+		a star and vice versa. It also has a calculator of the basic parameters present in any electronic 
+		circuit: current, resistance and voltage by Ohm's Law.
 ------------------------------------------------------------------------------------------
 	DEVELOPMENT ENVIRONMENT :
 
