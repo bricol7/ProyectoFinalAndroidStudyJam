@@ -1,30 +1,19 @@
-
-==========================================================================================
-==========================================================================================
+------------------------------------------------------------------------------------------
 
 	       PROJECT FINAL STUDY JAM  -- BASIC ELECTRIC CALCULATOR
-
-==========================================================================================
-==========================================================================================
+------------------------------------------------------------------------------------------
 DESCRIPTION :
-'''''''''''''
-basic electric calculator, es una aplicación básica orientada a estudiantes de eléctrica 
-y electrónica, consta de 5 formas de calcular circuitos equivalentes, son 5 herramientas 
-eléctricas útiles: una calculadora del circuito equivalente de resistencias en serie, en 
-paralelo,  el circuito equivalente de Millaman, conversión de resistencias delta a 
-estrella y viceversa. Además  tiene una calculadora de los parámetros básicos presentes 
-en cualquier circuito electrónico: Corriente, Resistencia y Voltaje mediante la Ley de Ohm
-==========================================================================================
-DEVELOPMENT ENVIRONMENT :
-'''''''''''''''''''''''''
-It works on Windows 8.1 Operating System.
-It uses Android Study 1.5.1
-and Java JDK 1.8.0_73
-API15: Android 4.0.3 (IceCreamSandwich)
 
-==========================================================================================
+This is a basic application oriented to students of electrical and electronics, has 5 ways to calculate equivalent circuits, are 5 electric tools useful: a calculator equivalent circuit of resistors in series, in parallel, the equivalent circuit Millman, conversion of delta resistors a star and vice versa. It also has a calculator of the basic parameters present in any electronic circuit: current, resistance and voltage by Ohm's Law.
+------------------------------------------------------------------------------------------
+DEVELOPMENT ENVIRONMENT :
+
+	It works on Windows 8.1 Operating System.
+	It uses Android Study 1.5.1
+	and Java JDK 1.8.0_73
+	API15: Android 4.0.3 (IceCreamSandwich)
+------------------------------------------------------------------------------------------
 HOW TO USE IT:
-''''''''''''''
 ------------------------------------------------------------------------------------------
 Steps to calculate sum of resistors in series and parallel:
 
@@ -51,14 +40,12 @@ Ohm´s Law calculator:
 	    to calculate.
 	3.- Press the calculate button to obtain the value to obtain the desired parameter.
 	
-==========================================================================================
-student data:
-'''''''''''''
-Name: Brian Torrez Jorge
-Email: bricol.7@gmail.com
+------------------------------------------------------------------------------------------
+	Student data:
 
-==========================================================================================
-
+		Name: Brian Torrez Jorge
+		Email: bricol.7@gmail.com
+------------------------------------------------------------------------------------------
 
 
 
